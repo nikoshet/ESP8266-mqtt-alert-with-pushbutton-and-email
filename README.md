@@ -13,17 +13,16 @@ Alert system using the MQTT protocol, ESP8266-01 modules and the IFTTT web servi
 •   There is a schematic included for the necessary wiring
 ```
 
-### FYI
+## FYI
 
-#### IFTTT 
+### IFTTT 
 [here](https://ifttt.com/discover)
 
-#### HiveMQ
+### HiveMQ
 [here](https://www.hivemq.com/)
 
 For any feedback or questions do not hesitate to contact me.
 
---- 
 --- 
 ### Licence
 Copyright © 2019 Nick Nikitas
