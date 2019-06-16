@@ -32,5 +32,5 @@ Copyright © 2019 Nick Nikitas
 
 HiveMQ is under the Apache License 2.0 that can be found [here](https://github.com/hivemq/hivemq-community-edition/blob/master/LICENSE) ©
 
-Pubsubclient.h and Wifimanager.h libraries are under the MIT License that can be found [here](https://github.com/knolleary/pubsubclient/blob/master/LICENSE.txt) © and [here](https://github.com/tzapu/WiFiManager/blob/master/LICENSE)
+Pubsubclient.h and Wifimanager.h libraries are under the MIT License that can be found [here](https://github.com/knolleary/pubsubclient/blob/master/LICENSE.txt) © and [here](https://github.com/tzapu/WiFiManager/blob/master/LICENSE) © 
 
